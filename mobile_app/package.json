@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@react-native-firebase/app": "^23.8.6",
+    "@react-native-firebase/messaging": "^23.8.6"
+  },
+  "devDependencies": {
+    "@react-native-community/cli": "latest"
+  }
+}
